@@ -7,4 +7,5 @@
 </div>
 <h1 align="center"> 
   Currently exploring the cloud ☁️ and its technologies
-</h2>  
+</h2> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
