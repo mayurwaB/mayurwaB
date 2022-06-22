@@ -6,5 +6,5 @@
   <img src="https://qph.cf2.quoracdn.net/main-qimg-fd4ae59f9f6bc848b61062baebb7cb44" width="500"/>
 </div>
 <h1 align="center"> 
-  Currently the cloud ☁️ and its technologies
+  Currently exploring the cloud ☁️ and its technologies
 </h2>  
