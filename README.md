@@ -4,7 +4,7 @@
 </h3>
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/6t02.gif" width="500"/>
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-fd4ae59f9f6bc848b61062baebb7cb44" width="500"/>
 </div>
 
 <h2 align="center"> 
