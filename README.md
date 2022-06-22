@@ -2,11 +2,9 @@
   Hi, I am Mayowa 😎 a computer engineering grad. from Nigeria
   <img src="https://cdn.countryflags.com/thumbs/nigeria/flag-round-250.png" width="20">
 </h3>
-
 <div id="header" align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-fd4ae59f9f6bc848b61062baebb7cb44" width="500"/>
 </div>
-
-<h2 align="center"> 
-  Currently exploring devops, the cloud and its technologies
+<h1 align="center"> 
+  Currently the cloud ☁️ and its technologies
 </h2>  
