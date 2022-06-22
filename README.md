@@ -15,5 +15,5 @@
 - I enjoy solving complex problems
 - I am a strong tech enthusiast, love to try out new gadgets and accessories
 - I occassionally create tech content on TikTok
-- I am a PC Builder
+- I build PCs
 - I am always keen on learning new technologies
