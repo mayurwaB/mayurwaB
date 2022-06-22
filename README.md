@@ -6,6 +6,6 @@
   <img src="https://qph.cf2.quoracdn.net/main-qimg-fd4ae59f9f6bc848b61062baebb7cb44" width="500"/>
 </div>
 <h1 align="center"> 
-  Currently exploring the cloud ☁️ and its technologies
+  Exploring The Cloud ☁️ and its Technologies
 </h2> 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mayurwaB&style=round&color=red" alt=""></p>
