@@ -12,3 +12,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mayurwaB&style=round&color=red" alt=""></p>
 
 ### :man_technologist: &nbsp;About Me :
+- I enjoy solving complex problems
+- I am a strong tech enthusiast, love to try out new gadgets and accessories
+- I occassionally create tech content on TikTok
+- I am a PC Builder
+- I am always keen on learning new technologies
