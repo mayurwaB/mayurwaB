@@ -21,11 +21,10 @@
 
 <hr>
 
-
 ### 🔗 &nbsp;Connect With Me :
   [![Linkedin Badge](https://img.shields.io/badge/-Mayowa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayowa-bodunwa) [![Twitter Badge](https://img.shields.io/badge/-Mayowa-white?style=flat&logo=Twitter&logoColor=blue)](https://www.twitter.com/mayowabodunwa) [![Instagram Badge](https://img.shields.io/badge/-Mayowa-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mayowabod) [![Medium Badge](https://img.shields.io/badge/-Mayowa-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@bodunwamayowa)
 
-<br />
+<hr>
 
 ### ⚙️ &nbsp;Tech Stack :  
 ##### &nbsp;Programming Language 
@@ -40,7 +39,7 @@
 ##### &nbsp;Editors & IDEs 
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://static.cdnlogo.com/logos/v/69/vim.svg" alt="vim" title="vim" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<br />
+<hr>
 
 ### 📄 &nbsp;Projects :
 #### coming soon
