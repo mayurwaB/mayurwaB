@@ -25,3 +25,15 @@
 ### ⚙️ &nbsp;Tech Stack :  
 ##### &nbsp;Programming Language 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="groovy" title="groovy" width="40" height="40"/> 
+
+##### &nbsp;Operating System 
+<p align="left"><img src="https://www.shareicon.net/data/2015/09/17/102428_debian_512x512.png"  width="40" height="40"/>  <img src="https://iconape.com/wp-content/files/sj/380491/svg/380491.png" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/2560px-Red_Hat_logo.svg.png" width="40" height="40"/> 
+
+##### &nbsp;DevOps 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="groovy" title="groovy" width="40" height="40"/> 
+
+##### &nbsp;Editors & IDEs 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="groovy" title="groovy" width="40" height="40"/> 
+
+##### &nbsp;Programming Language 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="groovy" title="groovy" width="40" height="40"/> 
