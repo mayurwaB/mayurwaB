@@ -39,7 +39,7 @@
 ##### &nbsp;Editors & IDEs 
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://static.cdnlogo.com/logos/v/69/vim.svg" alt="vim" title="vim" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<hr size="1px">
+<hr size="0.5px">
 
 ### 📄 &nbsp;Projects :
 #### coming soon
