@@ -20,6 +20,4 @@
 - I am always keen on learning new technologies
 
 ### 🔗 &nbsp;Connect With Me :
-<div align="left">
   [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
-</div>
