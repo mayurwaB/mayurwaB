@@ -21,5 +21,5 @@
 
 ### 🔗 &nbsp;Connect With Me :
 <div align="left">
-  [![Facebook](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 </div>
