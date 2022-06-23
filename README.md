@@ -28,7 +28,7 @@
 
 ### ⚙️ &nbsp;Tech Stack :  
 ##### &nbsp;Programming Language 
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="powershell" title="powershell" width="40" height="40"/> 
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-4.png" alt="powershell" title="powershell" width="40" height="40"/> 
 
 ##### &nbsp;Operating Systems 
 <p align="left"><img src="https://www.shareicon.net/data/2015/09/17/102428_debian_512x512.png" alt="debian" title="debian"  width="40" height="40"/>  <img src="https://iconape.com/wp-content/files/sj/380491/svg/380491.png" alt="windows" title="windows" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/2560px-Red_Hat_logo.svg.png" alt="RHEL" title="RHEL" width="40" height="40"/> 
