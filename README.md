@@ -18,3 +18,5 @@
 - I occassionally create tech content on TikTok
 - I build PCs
 - I am always keen on learning new technologies
+
+## 🔗 Connect With Me:
