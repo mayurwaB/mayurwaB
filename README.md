@@ -19,9 +19,7 @@
 - I build PCs
 - I am always keen on learning new technologies
 
-<br />
 <hr>
-<br />
 
 
 ### 🔗 &nbsp;Connect With Me :
