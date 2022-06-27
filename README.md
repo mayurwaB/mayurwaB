@@ -48,6 +48,6 @@
 
 ### 📈 &nbsp;Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mayowa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurwaB&show_icons=true&theme=radical)
 
 
