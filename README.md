@@ -15,7 +15,6 @@
 - I enjoy solving complex problems
 - I occassionally write blogs on the cloud, linux and IT-related content on [Medium](https://medium.com/@bodunwamayowa)
 - I am a strong tech enthusiast who loves trying out new gadgets and accessories
-- I occassionally create tech content on TikTok
 - I build PCs
 - I am always keen on learning new technologies
 
